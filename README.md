@@ -19,8 +19,8 @@ Instead of giving full solutions, the tutor provides one hint at a time, encoura
 
 **Quick Start**
   1. Clone the repo
-        git clone https://github.com/yourusername/ai-debugging-tutor.git
-        cd ai-debugging-tutor
+        git clone https://github.com/yourusername/FOSSSE_SUBMISSIONS_PARTH_JHA
+        cd FOSSSE_SUBMISSIONS_PARTH_JHA
 
   2. Install dependencies
         pip install -r requirements.txt
